@@ -1,0 +1,5 @@
+This is going to be an aggregator of datasets and requests for datasets. No data should actually live on this app; just links.
+
+The idea is to have both municipal data supported as well as citizen-created/curated data.
+
+Citizen-created/curated data? I'm talking about a dataset or feed to something like the independent weatherstation operated out of Kanata, or a set of geo-tagged photos of chip vans in downtown Ottawa.
